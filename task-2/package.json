@@ -1,5 +1,5 @@
 {
-  "name": "task-1",
+  "name": "task-2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,12 +11,10 @@
     "@types/node": "^16.18.23",
     "@types/react": "^18.0.32",
     "@types/react-dom": "^18.0.11",
-    "@types/react-redux": "^7.1.25",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
     "react-scripts": "5.0.1",
-    "redux": "^4.2.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
